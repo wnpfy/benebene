@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "venice",
+			"Path": "..\\Source\\venice.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "veniceEditor",
+			"Path": "..\\Source\\veniceEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
