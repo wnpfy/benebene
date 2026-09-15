@@ -252,6 +252,8 @@
     <None Include="..\..\venice.uproject"/>
     <None Include="..\..\Source\venice.Target.cs"/>
     <None Include="..\..\Source\veniceEditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
+    <None Include="..\..\UpgradeLog.htm"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
