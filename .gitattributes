@@ -17,3 +17,5 @@
 /un/Content/SD_Art/_SD_Textures/Blends/T_Blend_Noise_01.uasset filter=lfs diff=lfs merge=lfs -text
 /un/Content/SD_Art/_SD_Textures/Colors/T_Blend_ColorNoise_01.uasset filter=lfs diff=lfs merge=lfs -text
 /un/Intermediate/CachedAssetRegistry_0.bin filter=lfs diff=lfs merge=lfs -text
+un/Content/UndergroundTunnel/**/*.uasset filter=lfs diff=lfs merge=lfs -text
+un/Content/UndergroundTunnel/**/*.umap filter=lfs diff=lfs merge=lfs -text
